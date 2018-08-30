@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 #pre: this script needs seshat binary file compiled completely and put into the same directory
 #usage: (in command line) python3 py-seshat.py <input file> <output directory>
